@@ -9,7 +9,7 @@ Week 4: Strom Data
 
 
 *Official Certifcate Link:* https://www.coursera.org/account/accomplishments/verify/SFWGG3LP76Q3    
-*Received Grades:* **92.7%%**  
+*Received Grades:* **92.7%**  
 
 **Code Format:** R (to reduce the number of uploaded files)  
 *To compile resources, use R.*  
